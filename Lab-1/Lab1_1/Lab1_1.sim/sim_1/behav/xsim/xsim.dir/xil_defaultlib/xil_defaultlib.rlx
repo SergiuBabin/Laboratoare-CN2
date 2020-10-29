@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sim_1/new/sim_mux2.v,1603204699,verilog,,,,sim_mux2,,,,,,,,
+C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sim_1/new/sim_mux4.v,1603211865,verilog,,,,sim_mux4,,,,,,,,
+C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sim_1/new/sim_mux8.v,1603214326,verilog,,,,sim_mux8,,,,,,,,
+C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sources_1/new/mux2_1.v,1603183573,verilog,,C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sources_1/new/mux4_1.v,,mux2_1,,,,,,,,
+C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sources_1/new/mux4_1.v,1603211616,verilog,,C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sources_1/new/mux8_2.v,,mux4_1,,,,,,,,
+C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sources_1/new/mux8_2.v,1603214260,verilog,,C:/Xilinx/Lab_CN2/Lab1_1/Lab1_1.srcs/sim_1/new/sim_mux8.v,,mux8_2,,,,,,,,
